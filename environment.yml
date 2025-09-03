@@ -1,4 +1,4 @@
-name: gi-pygmt-2021
+name: gi-pygmt
 channels:
   - conda-forge
   - defaults
@@ -6,4 +6,4 @@ dependencies:
   - geocoder
   - jupyterlab
   - obspy
-  - pygmt=0.3.0
+  - pygmt=0.16.0
