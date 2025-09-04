@@ -1,7 +1,6 @@
 name: gi-pygmt
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - jupyterlab
   - obspy
